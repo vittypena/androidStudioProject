@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alumno/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/activity_main.xml" value="0.20288753799392098" />
+        <entry key="..\:/Users/alumno/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/dialog_fragment_spinner.xml" value="0.20288753799392098" />
+        <entry key="..\:/Users/alumno/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/spinner.xml" value="0.20288753799392098" />
+        <entry key="..\:/Users/alumno/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/spinner_personalizado.xml" value="0.5" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/drawable/background_spinner.xml" value="0.34444444444444444" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/activity_spinner.xml" value="0.33" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/dialog_fragment_spinner.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/item_spinner_personalizado.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/layout/spinner_personalizado.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/menu/menu_hipotenochas.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Hipotenochas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

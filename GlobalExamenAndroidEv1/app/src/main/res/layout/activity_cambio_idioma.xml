@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityCambioIdioma.Activity_CambioIdioma">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textViewSaludo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hola" />
+
+        <TextView
+            android:id="@+id/textViewDespedida"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adios" />
+
+        <TextView
+            android:id="@+id/textViewIdioma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/idioma" />
+
+        <TextView
+            android:id="@+id/textViewFin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fin" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <RadioButton
+                android:id="@+id/radioButtonEspaniol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonCambioIdioma"
+                android:text="Idioma Español" />
+
+            <RadioButton
+                android:id="@+id/radioButtonIngles"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonCambioIdioma"
+                android:text="Idioma Ingles" />
+
+            <RadioButton
+                android:id="@+id/radioButtonFrancesMal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonCambioIdioma"
+                android:text="Idioma Frances" />
+
+        </RadioGroup>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

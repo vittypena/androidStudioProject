@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="168dp"
+        android:text="Nombre:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="148dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="252dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/rbEspaniola"
+            android:onClick="onRadioButtonGlobal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Española" />
+
+        <RadioButton
+            android:id="@+id/rbItaliana"
+            android:onClick="onRadioButtonGlobal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Italiana" />
+
+        <RadioButton
+            android:id="@+id/rbFrancesa"
+            android:onClick="onRadioButtonGlobal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Francesa" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="108dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="276dp"
+        android:text="Hora de Entrada:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="106dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="364dp"
+        android:text="Hora de Salida:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btEntrada"
+        android:layout_width="65dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="220dp"
+        android:layout_marginTop="228dp"
+        android:text="HEn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btSalida"
+        android:layout_width="66dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="220dp"
+        android:layout_marginTop="316dp"
+        android:text="HSa"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvHoraEntrada"
+        android:layout_width="73dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="320dp"
+        android:layout_marginTop="276dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvHoraSalida"
+        android:layout_width="77dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="320dp"
+        android:layout_marginTop="364dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvConsultar"
+        android:layout_width="295dp"
+        android:layout_height="184dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="484dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btConsultar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="428dp"
+        android:text="Consultar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btAltas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="196dp"
+        android:layout_marginTop="408dp"
+        android:text="Altas"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btNacionalidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="92dp"
+        android:text="Consultas Nacionalidad"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

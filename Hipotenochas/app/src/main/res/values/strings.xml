@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Encuentra hipotenochas!</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="nuevo_juego">Nuevo Juego</string>
+    <string name="configura_el_juego">Selecciona la dificultad</string>
+    <string name="personaje">Personaje</string>
+    <string name="instrucciones_juego">El juego es tipo buscaminas. Cuando pulsas en una casilla, sale un número que identifica cuantas hipotenochas hay alrededor. Ten cuidado porque si pulsas en una casilla que tenga una hipotenocha escondidad, perderás. Si crees o tienes la certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde no hay una hipotenocha porque perderas. Ganas una vez hayas encontrado todas las hipotenochas</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Para que el boton este sin seleccionar por defecto-->
+    <item android:state_enabled="false"
+        android:drawable="@drawable/boton_pressed" />
+
+    <!--Presionado-->
+    <item android:state_pressed="true"
+            android:drawable="@drawable/boton_pressed"></item>
+    <!--Seleccionado-->
+    <item android:state_focused="true"
+        android:drawable="@drawable/boton_focused" />
+    <!--Normal, (Es necesario poner uno por defecto)-->
+    <item android:drawable="@drawable/boton_normal"/>
+</selector>

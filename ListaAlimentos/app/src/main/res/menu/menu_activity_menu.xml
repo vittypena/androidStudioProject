@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuHola"
+        android:title="Hola" />
+    <item
+        android:id="@+id/menuAdios"
+        android:title="Adios" />
+    <item
+        android:id="@+id/menuImagen"
+        android:icon="@mipmap/ic_menu_icon_item"
+        android:title="Imagen"
+        app:showAsAction="always" />
+</menu>

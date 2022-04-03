@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_cambio_idioma.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_compare_to_edad_actual.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_global.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_main.xml" value="0.35487232933819696" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_menu.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_paso_parametros.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_retornar_parametros.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/activity_table_layout.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/content_activity_menu.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/dialog_fragment_personalizado.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/dialog_fragment_spinner.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/fragment_first.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/fragment_second.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/item_spinner_personalizado.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/layout/item_spinner_personalizado_compare.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/menu/menu_activity_menu.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/mipmap-anydpi-v26/ic_PasoParametrosBanner.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/GlobalExamenAndroidEv1/app/src/main/res/mipmap-anydpi-v26/ic_paso_parametros.xml" value="0.36018518518518516" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlobalExamenAndroidEv1</string>
+    <string name="dialogFragment_texto">eE</string>
+    <string name="textviewSpinner">TextView</string>
+    <string name="title_activity_menu">Activity_Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hola">Salut</string>
+    <string name="adios">Adieu</string>
+    <string name="idioma">French</string>
+    <string name="fin">La fin</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Color" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tamaño" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet. Sit maiores voluptatem qui quos atque ad enim voluptas. A nisi recusandae aut vitae laudantium et voluptatum voluptatum nam neque suscipit sit possimus cumque et enim repellat. Ut fugiat omnis qui iusto quidem in suscipit perferendis et maxime necessitatibus quo debitis cumque eos mollitia voluptas. Quo consequuntur unde aut ipsa sapiente et incidunt iure cum soluta rerum ad magni dicta sed illo nisi." />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vel labore voluptas eos aperiam distinctio quo nihil dolorem ut quam animi! Est ullam autem sit eligendi iure 33 quia doloremque. Non vero aliquid vel aliquid autem aut nemo rerum sed laborum officia 33 recusandae cum ipsa. Quo quidem soluta ut eaque repellendus sed veritatis eveniet id nostrum galisum ut minus perspiciatis." />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

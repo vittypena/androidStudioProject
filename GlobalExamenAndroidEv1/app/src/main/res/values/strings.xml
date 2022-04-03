@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GlobalExamenAndroidEv1</string>
+    <string name="dialogFragment_texto">El juego es tipo buscaminas. Cuando pulsas en una casilla, sale un número que identifica cuantas hipotenochas hay alrededor. Ten cuidado porque si pulsas en una casilla que tenga una hipotenocha escondidad, perderás. Si crees o tienes la certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde no hay una hipotenocha porque perderas. Ganas una vez hayas encontrado todas las hipotenochas</string>
+    <string name="textviewSpinner">TextView</string>
+    <string name="title_activity_menu">Activity_Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hola">Hola</string>
+    <string name="adios">Adios</string>
+    <string name="idioma">Español</string>
+    <string name="fin">Final</string>
+</resources>

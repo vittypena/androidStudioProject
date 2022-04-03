@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citas">
+        <item>Camino antes que destino</item>
+        <item>Demasiadas cosas que hacer</item>
+        <item>La vida de por sí</item>
+        <item>A veces nos creemos intocables</item>
+        <item>Aprender y morir</item>
+    </string-array>
+</resources>

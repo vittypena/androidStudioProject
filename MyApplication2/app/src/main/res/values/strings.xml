@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+    <string name="about_button_title_support">Obtener soporte</string>
+    <string name="about_button_title_website">Ir al sitio web</string>
+    <string name="about_button_title_back">Volver</string>
+    <string name="about_textview_created_by">Creada por Miguel Angel Lozano</string>
+    <string name="film_edit_prompt_genre">Género</string>
+    <string name="film_edit_prompt_format">Formato</string>
+    <string name="film_data_imdb_button_label">Ver en IMDB</string>
+    <string name="film_data_director_label">Director:</string>
+    <string name="film_data_year_label">Año:</string>
+    <string name="film_data_back_button_title">Volver a la principal</string>
+    <string name="film_data_edit_button_label">Editar</string>
+    <string name="film_edit_capture_photo_button">Capturar fotografia</string>
+    <string name="film_edit_select_image_button">Seleccionar imagen</string>
+    <string name="film_edit_title_hint">Título de la película</string>
+    <string name="film_edit_director_hint">Nombre del director</string>
+    <string name="film_edit_year_hint">Año de estreno</string>
+    <string name="film_edit_imdb_hint">Enlace a IMDB</string>
+    <string name="film_edit_comment_hint">Comentarios</string>
+    <string name="film_edit_cancel_button">Cancelar</string>
+    <string name="film_edit_save_button">Guardar</string>
+    <string name="menu_item_nueva_pelicula">Añadir película</string>
+    <string name="menu_item_acerca_de">Acerca de</string>
+    <string name="menu_item_borrar">Borrar</string>
+
+</resources>

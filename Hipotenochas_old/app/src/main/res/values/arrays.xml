@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="dificultad">
+        <item>Principiante</item>
+        <item>Amateur</item>
+        <item>Avanzado</item>
+    </array>
+    <array name="personaje">
+        <item>camuflada</item>
+        <item>espaniola</item>
+        <item>nocturna</item>
+        <item>presumida</item>
+    </array>
+</resources>

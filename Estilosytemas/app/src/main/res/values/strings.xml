@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estilos y temas</string>
+    <string name="bienvenido_a_mi_aplicacion">Bienvenido a mi aplicacion</string>
+    <string name="aplicacion_desarrollada_por_victor">Aplicacion desarrollada por: Victor</string>
+    <string name="uso_de_estilos_y_temas">Uso de Estilos y Temas</string>
+    <string name="volver">Volver</string>
+</resources>

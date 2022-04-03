@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogoSeleccion</string>
+    <string name="aceptar">aceptar</string>
+    <string name="cancelar">cancelar</string>
+</resources>

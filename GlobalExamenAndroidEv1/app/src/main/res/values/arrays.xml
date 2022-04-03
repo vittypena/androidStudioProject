@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arrayDialogFragmentRadioButton">
+        <item>Principiante</item>
+        <item>Amateur</item>
+        <item>Avanzado</item>
+    </array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CicloVidaActivity</string>
+    <string name="saludo">Hola</string>
+    <string name="button_login">LOGIN</string>
+    <string name="checkbox_deporte">deporte</string>
+    <string name="checkbox_videojuego">Videojuegos</string>
+    <string name="radioButton_Mujer">Mujer</string>
+    <string name="radioButton_Hombre">Hombre</string>
+    <string name="radioButton_Indefinido">Indefinido</string>
+</resources>

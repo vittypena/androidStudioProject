@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout-normal/fragment_container.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_container.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_detalle.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_principal.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_principal_list.xml" value="0.340625" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_principal_listt.xml" value="0.340625" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragment_principall.xml" value="0.3546875" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/Fragmentos/app/src/main/res/layout/fragmentos.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
